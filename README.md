@@ -26,6 +26,8 @@ cd dwm-install
 
 ```
 chmod +x install.sh
-./install.sh
+```
 
+```
+./install.sh
 ```
